@@ -1,0 +1,20 @@
+{
+  "name": "browserify-es6",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "browserify-transform-tools": "~1.2.1",
+    "through": "~2.3.4"
+  },
+  "devDependencies": {
+    "chai": "~1.9.0",
+    "mocha": "~1.17.1",
+    "browserify": "~3.31.2"
+  }
+}

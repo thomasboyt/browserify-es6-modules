@@ -1,0 +1,1 @@
+module chai from 'chai';
