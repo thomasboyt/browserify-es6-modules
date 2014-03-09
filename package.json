@@ -1,12 +1,13 @@
 {
   "name": "browserify-es6-modules",
-  "version": "0.0.0",
-  "description": "",
+  "version": "0.1.0",
+  "description": "Compile Browserify imports through ES6 Module Transpiler",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Thomas Boyt",
+  "repository": "https://github.com/thomasboyt/browserify-es6-modules",
   "license": "MIT",
   "dependencies": {
     "browserify-transform-tools": "~1.2.1",
