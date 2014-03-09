@@ -11,7 +11,9 @@ module.exports = function(file) {
   function end() {
     var compiler = new Compiler(data);
 
-    var out = compiler.toCJS();
+    var out = compiler.toCJS({
+      compatFix: true
+    });
     this.queue(out);
     this.queue(null);
   }
