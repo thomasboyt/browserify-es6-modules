@@ -1,6 +1,6 @@
 {
   "name": "browserify-es6-modules",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Compile Browserify imports through ES6 Module Transpiler",
   "main": "index.js",
   "scripts": {
