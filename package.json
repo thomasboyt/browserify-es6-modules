@@ -11,7 +11,8 @@
   "license": "MIT",
   "dependencies": {
     "browserify-transform-tools": "~1.2.1",
-    "through": "~2.3.4"
+    "through": "~2.3.4",
+    "es6-module-transpiler": "~0.3.6"
   },
   "devDependencies": {
     "chai": "~1.9.0",
